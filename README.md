@@ -1,2 +1,8 @@
-# angular-interview-quiestions-v1
-Questions for the interview with the team Angular
+# Questions for the interview with the team Angular
+
+1. Если вам кажется, что ваш вопрос стоит того, чтобы задать его команде Angular, то для этого достаточно завести Issue
+
+2. В названии Issue Вам необходимо написать вопрос (желательно на английком языке), в описании вы можете прокомментировать его на русском (плюсом было бы здорово иметь перевод на английский к вашему комментарию)
+
+Пример:
+![](https://habrastorage.org/webt/1d/o4/ue/1do4uexzsp4wyx5rry6pq-n-7ky.png)
