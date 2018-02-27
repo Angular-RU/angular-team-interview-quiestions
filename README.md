@@ -6,4 +6,4 @@
 
 #### Пример:
 
-![](https://habrastorage.org/webt/1d/o4/ue/1do4uexzsp4wyx5rry6pq-n-7ky.png)
+![](https://habrastorage.org/webt/_x/h1/hk/_xh1hko9sltp4sdlpmkaqmylxvc.png)
